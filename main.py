@@ -197,6 +197,26 @@ def send_message(to_user, access_token, region_name, weather, temp, wind_dir, no
             "note_ch": {
                 "value": note_ch,
                 "color": get_color()
+            },
+            "c1": {
+                "value": c1,
+                "color": get_color()
+            },
+            "c2": {
+                "value": c2,
+                "color": get_color()
+            },
+            "c3": {
+                "value": c3,
+                "color": get_color()
+            },
+            "c4": {
+                "value": c4,
+                "color": get_color()
+            },
+            "c5": {
+                "value": c5,
+                "color": get_color()
             }
         }
     }
