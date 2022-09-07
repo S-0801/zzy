@@ -138,7 +138,8 @@ def send_message(to_user, access_token, region_name, weather, temp, wind_dir, no
         
     #课表判断
 
-    c1 = " 8:00~9:40 ：犯困💤 "
+    c1 = ""
+    c0 = " 8:00~9:40 ：犯困💤 "
     c2 = "10:00~11:40 : 等干饭 🍙"
     c3 = "14:30~16:05 : 发个呆 😳 "
     c4 = "16:25~18:05 : happytime 🎮"
