@@ -150,7 +150,7 @@ def send_message(to_user, access_token, region_name, weather, temp, wind_dir, no
         c3 = "14:30~16:05 : javaweb高级  [10-508] "
         c4 = "16:25~18:05 : 计算机组成原理  [11-203] "
         c5 = "19:30~21:00 : 机器学习  [11-101]"
-    if week == "星期":
+    if week == "星期三":
         c2 = "10:00~11:40 : 移动开发技术  [11-203] "
         c3 = "14:30~16:05 : 形势与政策  [10-210] "
     if week == "星期四":
